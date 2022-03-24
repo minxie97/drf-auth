@@ -5,6 +5,7 @@ Moving our API closer to production grade by adding Authentication and switching
 N/A (for now)
 
 ## PR Link
+[Pull Request](https://github.com/minxie97/drf-auth/pull/2)
 
 ## Testing with httpie
 1. install http either with a pip install or poetry add depending on your virtual environment
